@@ -1,0 +1,1 @@
+All of my completed Katas on Code Wars, copied in this format automatically by https://github.com/Joaonic/Code-Wars-Scrapper
