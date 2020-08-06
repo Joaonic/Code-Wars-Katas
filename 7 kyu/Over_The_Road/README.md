@@ -12,4 +12,4 @@ over_the_road(1, 3) = 6
 over_the_road(3, 3) = 4
 over_the_road(2, 3) = 5
 over_the_road(3, 5) = 8
-Both n and address could get upto one trillion with over 2000 random tests.
+Both n and address could get upto 500 billion with over 200 random tests.
